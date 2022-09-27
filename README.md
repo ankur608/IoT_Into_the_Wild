@@ -8,10 +8,7 @@
 
 Hardware designs delivered during the project completion.
 
-> **ITR_V1** Based on off the shelf Arduino Nano 33 BLE Sense board, LoRa & U-Blox GPS
-
-
-> **Note** Designs are provided for a number of components used in unmanned vehicles, including: Autopilots (Flight Management Units - FMUs), ESCs (electronic speed controllers), optical flow sensors, etc.
+> **Note** Version 1 is based on Arduino Nano 33 BLE Sense board, LoRa & U-Blox GPS modules.
 
 ![image](https://user-images.githubusercontent.com/58347016/192637013-b1d0bf8e-387c-4965-919a-3efb80ebc381.png)
 
