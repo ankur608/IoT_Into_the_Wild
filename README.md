@@ -1,17 +1,17 @@
 # IoT_Into_the_Wild
 
-### Project ELEPHANTS - An Open platform for monitoring our elephants in Wild.
+### [Project ELEPHANTS](https://www.hackster.io/ankurverma608/project-elephants-bba360) - An Open platform for monitoring our elephants in Wild.
 ![Project ELEPHANTS](https://user-images.githubusercontent.com/58347016/192637381-85291fb7-0a33-444f-b6fd-795d16c65313.png)
 
-
-(https://www.hackster.io/ankurverma608/project-elephants-bba360)
 
 ## Hardware Design
 
 Hardware designs delivered during the project completion.
 
-> **ITR V1** Based on off the shelf Arduino Nano 33 BLE Sense board, LoRa & U-Blox GPS
+> **ITR_V1** Based on off the shelf Arduino Nano 33 BLE Sense board, LoRa & U-Blox GPS
 
+
+> **Note** Designs are provided for a number of components used in unmanned vehicles, including: Autopilots (Flight Management Units - FMUs), ESCs (electronic speed controllers), optical flow sensors, etc.
 
 ![image](https://user-images.githubusercontent.com/58347016/192637013-b1d0bf8e-387c-4965-919a-3efb80ebc381.png)
 
