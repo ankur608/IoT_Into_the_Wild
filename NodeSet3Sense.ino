@@ -1,4 +1,4 @@
-// Packet'u'[ElephantEdgeNode].
+// Packet'u'[EdgeNode].
 #define DECLINATION +0.36 // Target location-specific.
 #include <Arduino_LSM9DS1.h>
 #include <Arduino_HTS221.h>
