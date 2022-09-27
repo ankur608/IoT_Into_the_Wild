@@ -1,6 +1,6 @@
 # IoT_Into_the_Wild
 
-**Project ELEPHANTS**
+###Project ELEPHANTS
 ![Project ELEPHANTS](https://user-images.githubusercontent.com/58347016/192637381-85291fb7-0a33-444f-b6fd-795d16c65313.png)
 
 Open platform for monitoring our elephants in Wild.
