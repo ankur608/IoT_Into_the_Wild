@@ -4,6 +4,13 @@
 ![Project ELEPHANTS](https://user-images.githubusercontent.com/58347016/192637381-85291fb7-0a33-444f-b6fd-795d16c65313.png)
 
 
+Poaching, habitat loss, and human conflict have led to the devastating loss of millions of elephants across Africa in the last 100 years.
+
+For an instance, in Zakouma National Park in Chad, the population plummeted from 4, 300 elephants to just 450 in just eight short years due to poaching.
+
+![image](https://user-images.githubusercontent.com/58347016/192640521-44aef55b-3f03-462e-899d-5ad4a46f0a88.png)
+
+
 ## Hardware Design
 
 Hardware designs delivered during the project completion.
