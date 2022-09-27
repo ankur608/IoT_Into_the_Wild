@@ -1,4 +1,4 @@
-// ST-LRWAN based LoRa Receiver[ElephantEdgeNode].
+// ST-LRWAN based LoRa Receiver[EdgeNode].
 
 #include "LoRaRadio.h"
 
