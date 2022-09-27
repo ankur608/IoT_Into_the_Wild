@@ -10,7 +10,9 @@
 
 Hardware designs delivered during the project completion.
 
-> **ITR V1**Based on off the shelf Arduino Nano 33 BLE Sense board, LoRa & U-Blox GPS
+> **ITR V1** Based on off the shelf Arduino Nano 33 BLE Sense board, LoRa & U-Blox GPS
+
+
 ![image](https://user-images.githubusercontent.com/58347016/192637013-b1d0bf8e-387c-4965-919a-3efb80ebc381.png)
 
 ## IoT Dashboard
